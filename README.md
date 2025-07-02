@@ -41,6 +41,5 @@ Spring Boot 3.x, Spring Data JPA ve H2 veritabanı kullanılarak geliştirilmiş
 - Spring Web
 - Spring Data JPA
 - H2 Database (geliştirme/test ortamı)
-- JAXB (isteğe bağlı, opsiyonel)
 - Maven
 - Postman (API testleri için)
